@@ -19,11 +19,15 @@
   "homepage": "https://github.com/mauryanik/React#readme",
   "devDependencies": {
     "parcel": "^2.11.0",
-    "process": "^0.11.10"
+    "postcss": "^8.4.35",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.1"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-redux": "^9.1.1",
     "react-router-dom": "^6.22.0"
   },
   "browserslist": [
